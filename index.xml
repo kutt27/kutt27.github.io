@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Blog</title>
+    <link>https://kutt27.github.io/</link>
+    <description>Recent content on Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2023 13:35:36 +0530</lastBuildDate><atom:link href="https://kutt27.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://kutt27.github.io/posts/introduction/</link>
+      <pubDate>Mon, 13 Nov 2023 13:35:36 +0530</pubDate>
+      
+      <guid>https://kutt27.github.io/posts/introduction/</guid>
+      <description>This is the first introduction of the App.</description>
+    </item>
+    
+  </channel>
+</rss>
