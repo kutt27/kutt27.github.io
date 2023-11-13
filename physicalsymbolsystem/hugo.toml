@@ -1,0 +1,4 @@
+baseURL = 'https://kutt27.github.io/'
+languageCode = 'en-us'
+title = 'Physical Symbol System'
+theme = 'beautifulhugo'
